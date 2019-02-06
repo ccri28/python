@@ -1,0 +1,9 @@
+Nome: Cristian 
+Età: 23 
+---------------------
+Nome: Simone 
+Età: 21 
+---------------------
+Nome: PIppo Rossi Matteo 
+Età: 27 
+---------------------
